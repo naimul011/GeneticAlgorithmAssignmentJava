@@ -1,6 +1,6 @@
 #Genetic Algorithm
 
-1 Problem Statement
+## Problem Statement
 You will have a 8 × 8 chessboard. You will be given 5 pieces of Queens and 3 pieces of Rooks.You
 have to place them in such a way that those pieces do not attack each other. Two things for sure:
 neither you can put any two of them in same column nor in same row.
