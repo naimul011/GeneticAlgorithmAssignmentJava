@@ -1,4 +1,4 @@
-%Genetic Algorithm
+#Genetic Algorithm
 
 1 Problem Statement
 You will have a 8 × 8 chessboard. You will be given 5 pieces of Queens and 3 pieces of Rooks.You
